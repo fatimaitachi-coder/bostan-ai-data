@@ -1,0 +1,61 @@
+{
+  "appName": "بستان AI",
+  "version": 1,
+  "featured": [],
+  "categories": [
+    {
+      "id": "tala-tara",
+      "title": "تالا وتارا",
+      "order": 1,
+      "cover": "",
+      "description": "",
+      "type": "stories",
+      "file": "data/tala-tara/stories.json"
+    },
+    {
+      "id": "school",
+      "title": "قصص مدرسية منوعة",
+      "order": 2,
+      "cover": "",
+      "description": "",
+      "type": "stories",
+      "file": "data/school/stories.json"
+    },
+    {
+      "id": "family",
+      "title": "قصص عائلتي الجميلة",
+      "order": 3,
+      "cover": "",
+      "description": "",
+      "type": "stories",
+      "file": "data/family/stories.json"
+    },
+    {
+      "id": "short-stories",
+      "title": "قصص قصيرة",
+      "order": 4,
+      "cover": "",
+      "description": "",
+      "type": "series",
+      "file": "data/short-stories/series.json"
+    },
+    {
+      "id": "heroes-magazine",
+      "title": "مجلة أبطال العناصر",
+      "order": 5,
+      "cover": "",
+      "description": "",
+      "type": "stories",
+      "file": "data/heroes-magazine/stories.json"
+    },
+    {
+      "id": "novels",
+      "title": "مكتبة الروايات",
+      "order": 6,
+      "cover": "",
+      "description": "",
+      "type": "stories",
+      "file": "data/novels/stories.json"
+    }
+  ]
+}
