@@ -1,1 +1,48 @@
-
+{
+  "seriesId": "tala-tara",
+  "title": "تالا وتارا",
+  "stories": [
+    {
+      "id": "story-001",
+      "title": "القزم المشاغب",
+      "cover": "",
+      "description": "",
+      "author": "بستان AI",
+      "age": "3+",
+      "pagesCount": 23,
+      "pages": [],
+      "isNew": true,
+      "isFeatured": false,
+      "published": true,
+      "order": 1
+    },
+    {
+      "id": "story-002",
+      "title": "الجنية الصغيرة",
+      "cover": "",
+      "description": "",
+      "author": "بستان AI",
+      "age": "3+",
+      "pagesCount": 34,
+      "pages": [],
+      "isNew": true,
+      "isFeatured": false,
+      "published": true,
+      "order": 2
+    },
+    {
+      "id": "story-003",
+      "title": "الغابة السحرية",
+      "cover": "",
+      "description": "",
+      "author": "بستان AI",
+      "age": "3+",
+      "pagesCount": 35,
+      "pages": [],
+      "isNew": true,
+      "isFeatured": false,
+      "published": true,
+      "order": 3
+    }
+  ]
+}
