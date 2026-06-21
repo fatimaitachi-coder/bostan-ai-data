@@ -5,7 +5,7 @@
     {
       "id": "story-001",
       "title": "القزم المشاغب",
-      "cover": "",
+      "cover": "https://res.cloudinary.com/dsnocqaqz/image/upload/v1781930535/Picture01_qadt8v.jpg",
       "description": "",
       "author": "بستان AI",
       "age": "3+",
@@ -19,7 +19,7 @@
     {
       "id": "story-002",
       "title": "الجنية الصغيرة",
-      "cover": "",
+      "cover": "رابط_غلاف_القصة_الثانية",
       "description": "",
       "author": "بستان AI",
       "age": "3+",
@@ -33,7 +33,7 @@
     {
       "id": "story-003",
       "title": "الغابة السحرية",
-      "cover": "",
+      "cover": "رابط_غلاف_القصة_الثالثة",
       "description": "",
       "author": "بستان AI",
       "age": "3+",
